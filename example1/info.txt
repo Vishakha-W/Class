@@ -1,0 +1,6 @@
+example1.py
+
+-It first loads the plugins
+-calls the plugin methods print
+-takes all the .txt file and give it to the es
+-takes the path of directory from config file through plugins
